@@ -14,31 +14,13 @@ A secure file encryption and shredding utility for protecting sensitive data. Th
 
 ### Requirements
 
-- Windows OS (.NET Framework or .NET Core runtime)
-- Administrator privileges (recommended for secure operations)
+- Windows OS
 
-### Installation
-
-1. Clone or download the repository
-2. Build the project using Visual Studio or the .NET CLI:
-   ```bash
-   dotnet build
-   ```
-3. The compiled `.exe` file will be located in the build output directory
-4. (Optional) Add the executable directory to your PATH for easy command-line access
-
-### Running the Executable
+### Installing the Executable
 
 **Standalone Usage:**
-- Locate `SecureFileEncryptorShredder.exe` in the build output folder
-- Double-click to run the GUI application, or
-- Run from command line for automated operations
-
-**Command-Line Usage:**
-```bash
-SecureFileEncryptorShredder.exe --encrypt "path/to/file"
-SecureFileEncryptorShredder.exe --shred "path/to/file"
-```
+- Locate `Secure Shredder.exe` in the downloads folder
+- Double-click to run the installer application
 
 ## Usage
 
@@ -72,7 +54,3 @@ Process multiple files at once by specifying a directory path or multiple file p
 ## License
 
 See LICENSE file for details.
-
-## Contributing
-
-Contributions are welcome. Please follow standard practices for code submission and ensure all changes maintain security best practices.
