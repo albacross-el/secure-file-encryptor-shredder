@@ -1,4 +1,4 @@
-# FILE USAGE - Secure File Encryptor & Shredder Engine
+# HOW THE APP WORKS - Secure File Encryptor & Shredder Engine
 
 ## Files Overview
 This documentation covers the core cryptographic and file management components:
